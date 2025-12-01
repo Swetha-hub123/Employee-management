@@ -144,4 +144,3 @@ Update `src/index.css`:
 
 ---
 
-**Note:** The Lovable frontend (this project) is already configured with Tailwind CSS and ready to use!
